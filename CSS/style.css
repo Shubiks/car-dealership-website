@@ -16,6 +16,7 @@
     }
 }
 
+
 @keyframes slideLeft {
     0%{
         transform: translateX(100px);

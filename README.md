@@ -18,4 +18,4 @@ This project is a **Car Dealership UI** website that showcases various animation
 
 ## Live Demo 🌐
 
-Check out the live version of the website [here](https://your-website-link.com).
+Check out the live version of the website [here](https://shubiks.github.io/car-dealership-website/).
